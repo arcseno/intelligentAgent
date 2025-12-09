@@ -1,0 +1,5 @@
+banana
+carro
+elefante
+casa
+computador
