@@ -34,7 +34,7 @@ The agent follows a cognitive cycle to maximize its winning chances:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/seu-usuario/intelligentAgent.git](https://github.com/seu-usuario/intelligentAgent.git)
+    git clone https://github.com/arcseno/intelligentAgent.git
     ```
 2.  Navigate to the folder:
     ```bash
